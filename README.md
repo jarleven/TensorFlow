@@ -1,5 +1,6 @@
 # TensorFlow
 
+```
 https://dzone.com/articles/object-detection-tutorial-in-tensorflow-real-time
 https://www.edureka.co/blog/tensorflow-object-detection-tutorial/
 
@@ -43,10 +44,5 @@ git clone https://github.com/tensorflow/models
 
 # models refer to Tensorflow above
 protoc --python_out=. models/object_detection/protos/*.proto
-
- 
-	    
-	    
-	    
-
-   
+```
+  
